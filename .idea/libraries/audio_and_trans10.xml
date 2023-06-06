@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="audio-and-trans10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cognitive-services-speech-sdk/sampledata/customspeech/zh-CN/training/audio-and-trans.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gradle-wrapper7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/text-to-speech/gradle/wrapper/gradle-wrapper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

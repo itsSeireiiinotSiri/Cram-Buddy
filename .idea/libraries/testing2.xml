@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="testing2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cognitive-services-speech-sdk/sampledata/customspeech/pt-BR/testing/audio-and-trans.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cognitive-services-speech-sdk/sampledata/customspeech/pt-BR/testing/audio.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
