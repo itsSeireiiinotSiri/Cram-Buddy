@@ -1,6 +1,6 @@
+package main;
 //This project is made by Ricky Ye, chosen clone out of uncountable clone projects I made that works.
-//Cram Buddy 1.2 Beta!
-//Voice Control! I hate myself and the online voice APIs for making things so hard so I will bridge Python and Java in here
+//Cram Buddy 2.2!
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

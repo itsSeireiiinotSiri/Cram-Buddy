@@ -1,0 +1,8 @@
+<dependencies>
+    <dependency>
+        <groupId>com.azure</groupId>
+        <artifactId>azure-speech-speechrecognizer</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+    <!-- Add other dependencies if required -->
+</dependencies>
