@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gradle-wrapper3">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/intent-recognition/gradle/wrapper/gradle-wrapper.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/csharp/maui/embedded-speech/embedded-speech/Platforms/Android/Android.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/csharp/maui/embedded-speech/embedded-speech/Platforms/Android/Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CramBud2.2.iml" filepath="$PROJECT_DIR$/CramBud2.2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/csharp/xamarin/helloworld/helloworld.Android/Properties/Properties.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/csharp/xamarin/helloworld/helloworld.Android/Properties/Properties.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/SpeechSynthesis/SpeechSynthesis.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/SpeechSynthesis/SpeechSynthesis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/compressed-input/compressed-input.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/compressed-input/compressed-input.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/jre/console/console.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/jre/console/console.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/conversation-transcription/conversation-transcription.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/conversation-transcription/conversation-transcription.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/jre/embedded-speech/embedded-speech.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/jre/embedded-speech/embedded-speech.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/embedded-speech/embedded-speech1.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/embedded-speech/embedded-speech1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/from-microphone/from-microphone.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/from-microphone/from-microphone.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/from-microphone/from-microphone1.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/from-microphone/from-microphone1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/intent-recognition/intent-recognition.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/intent-recognition/intent-recognition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/intent-recognition/intent-recognition1.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/intent-recognition/intent-recognition1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/keyword-recognizer/keyword-recognizer.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/keyword-recognizer/keyword-recognizer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/keyword-recognizer-stream/keyword-recognizer-stream.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/keyword-recognizer-stream/keyword-recognizer-stream.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/kotlin/kotlin.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/kotlin/kotlin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/scenarios/scenarios.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/scenarios/scenarios.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/sdkdemo/sdkdemo.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/samples/java/android/sdkdemo/sdkdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/speaker-recognition/speaker-recognition.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/speaker-recognition/speaker-recognition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/text-to-speech/text-to-speech.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/text-to-speech/text-to-speech.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/text-to-speech/text-to-speech1.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/android/text-to-speech/text-to-speech1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/translate-speech-to-text/translate-speech-to-text.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/translate-speech-to-text/translate-speech-to-text.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/virtual-assistant/virtual-assistant.iml" filepath="$PROJECT_DIR$/cognitive-services-speech-sdk/quickstart/java/jre/virtual-assistant/virtual-assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quickstart.iml" filepath="$PROJECT_DIR$/quickstart.iml" />
     </modules>
   </component>
 </project>
