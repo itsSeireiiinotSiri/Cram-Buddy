@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0aab3d3-e288-442f-ba7a-55c60f74b1a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/audio_and_trans9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing7.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/testing8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CramBud2.2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CramBud2.2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/CramMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/pom.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="d0aab3d3-e288-442f-ba7a-55c60f74b1a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,6 +203,7 @@
       <workItem from="1686159903408" duration="1272000" />
       <workItem from="1686320361748" duration="658000" />
       <workItem from="1686575537194" duration="2509000" />
+      <workItem from="1687259296087" duration="7000" />
     </task>
     <servers />
   </component>
